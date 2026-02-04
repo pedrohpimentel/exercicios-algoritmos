@@ -18,5 +18,4 @@ public class ExAlg1 {
 
         sc.close();
     }
-
 }
